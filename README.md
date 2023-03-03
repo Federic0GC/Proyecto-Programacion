@@ -1,6 +1,7 @@
 # Proyecto-Programacion
 * Trello "https://trello.com/b/SxCLEEmj/programming-project"
 * Notebook "https://colab.research.google.com/drive/1sgDptS1KpuozhLffzlrhDFz4HNI9AkFF?usp=sharing"
+* Doc Proyecto Programacion "https://docs.google.com/document/d/1Pab0NVA_YiuzbWpItb4tA3Jbv7QA72k4fSe06-nzwiw/edit?usp=sharing"
 
 ### En el repositorio encontraras lo siguiente:
 
