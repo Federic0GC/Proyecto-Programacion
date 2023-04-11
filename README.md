@@ -4,7 +4,7 @@
 ![Masivo Integrado de Occidente (MIO)](https://www.uao.edu.co/wp-content/uploads/2020/09/internacionalizacion-en-la-uao.jpg)
 
 # Fuentes de datos utilizados por nuestro equipo de trabajo 
-- Uber: https://developer.uber.com/docs/businesses/data-automation/data-download
+- UUber: hemos utilizado la API de Uber para obtener información sobre las tarifas y los tiempos de espera de los viajes en la zona de la UAO. La documentación de  la API se encuentra en el siguiente enlace: https://developer.uber.com/docs/businesses/data-automation/data-download.
 - Mio Service: https://mioservice.docs.apiary.io/#
 
 ![Estación de BRT en Santiago de Cali](https://upload.wikimedia.org/wikipedia/commons/a/a0/BRT%2C_santiago_de_Cali_station.jpg)
