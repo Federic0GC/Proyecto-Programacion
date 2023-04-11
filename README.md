@@ -7,10 +7,14 @@
 - Federico Gonzales Cárdenas
 - Manuel Alejandro Gruezo Arias
 - David Alejandro Cajiao Lazt
-- 
+
 # Mision y motivacion que aspira nuestro equipo de trabajo
 
 - Con la implementación de los cupos como alternativa de transporte en la UAO, se espera mejorar la movilidad de los estudiantes y reducir el tráfico vehicular en la zona. El uso de fuentes de datos como Uber y Mio, así como de datos abiertos, nos ha permitido obtener una visión más completa de la situación de la movilidad en la zona, lo que nos ha permitido proponer soluciones más precisas y efectivas.
+
+# Evidencia e informacion que seguro estaras buscarando
+
+- En el repositorio encontrarás los datos ya transformados en su totalidad por un proceso de ETL, siendo estos presentados en un archivo Excel o CSV
 
 
 
@@ -38,10 +42,4 @@
 
 ![Fuentes de datos para nuestro análisis](https://miro.medium.com/v2/resize:fit:1400/1*4-s0ZKKJ5B09CmQxrmx0Yw.png)
 
-# Evidencia e informacion que seguro estaras buscarando
 
-- En el repositorio encontrarás los datos ya transformados en su totalidad por un proceso de ETL, siendo estos presentados en un archivo Excel o CSV
-
-# Mision y motivacion que aspira nuestro equipo de trabajo
-
-- Con la implementación de los cupos como alternativa de transporte en la UAO, se espera mejorar la movilidad de los estudiantes y reducir el tráfico vehicular en la zona. El uso de fuentes de datos como Uber y Mio, así como de datos abiertos, nos ha permitido obtener una visión más completa de la situación de la movilidad en la zona, lo que nos ha permitido proponer soluciones más precisas y efectivas.
