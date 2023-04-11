@@ -1,4 +1,4 @@
-![Imagen de una persona pensando en su carrera profesional](https://blog.infoempleo.com/media/2017/11/ThinkstockPhotos-537331536-881x399.gif?w=640)
+![Campus Universidad Autonoma de Ociddente](https://www.uao.edu.co/wp-content/uploads/2020/05/Vive-la-UAO-745x410.jpg)
 
 # Visualizar los cupos como una alternativa a la problemática de movilidad en la Universidad Autónoma de Occidente.
 - En busca de nuevas posibilidades de transporte SEGURO y alternativo para los estudiantes de la UAO
