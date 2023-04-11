@@ -3,3 +3,8 @@
 
 
 ![Masivo Integrado de Occidente (MIO)](https://upload.wikimedia.org/wikipedia/commons/a/a0/BRT%2C_santiago_de_Cali_station.jpg)
+
+# Fuentes de datos utilizados por nuestro equipo de trabajp 
+- Uber: https://developer.uber.com/docs/businesses/data-automation/data-download
+- Mio Service: https://mioservice.docs.apiary.io/#
+
