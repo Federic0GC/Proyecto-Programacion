@@ -15,13 +15,13 @@
 
 # Proceso de obtención y transformación de datos
 
-# Para obtener y transformar los datos necesarios para nuestro análisis, nuestro equipo de trabajo se ha conectado a las APIs de Uber y Mio, y ha utilizado técnicas de web scraping en Python, utilizando POO.
+- Para obtener y transformar los datos necesarios para nuestro análisis, nuestro equipo de trabajo se ha conectado a las APIs de Uber y Mio, y ha utilizado técnicas de web scraping en Python, utilizando POO.
 
-# Además, una vez obtenidos los datos, estos han sido sometidos a un proceso de ETL (Extract, Transform, Load) para ser transformados en su totalidad, y han sido presentados en un archivo Excel o CSV.
+- Además, una vez obtenidos los datos, estos han sido sometidos a un proceso de ETL (Extract, Transform, Load) para ser transformados en su totalidad, y han sido presentados en un archivo Excel o CSV.
 
-# Fuente 1: Google Maps
-# Fuente 2: Mio
-# Fuente 3: Datos abiertos
+- Fuente 1: Google Maps
+- Fuente 2: Mio
+- Fuente 3: Datos abiertos
 
 ![Fuentes de datos para nuestro análisis](https://miro.medium.com/v2/resize:fit:1400/1*4-s0ZKKJ5B09CmQxrmx0Yw.png)
 
