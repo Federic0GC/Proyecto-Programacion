@@ -20,4 +20,4 @@
 ![Fuentes de datos para nuestro análisis](https://miro.medium.com/v2/resize:fit:1400/1*4-s0ZKKJ5B09CmQxrmx0Yw.png)
 ![Tipos de datos web](https://kinsta.com/wp-content/uploads/2022/07/Types-of-web-data.png)
 
-# ( Evidencia ) En el repositorio encontraras los datos ya transformados en su totalidad por un proceso de *ETL*, siendo estos presentados en un archivo Excel o Csv
+# ( Evidencia ) En el repositorio encontraras los datos ya transformados en su totalidad por un proceso de *ETL*, siendo estos presentados en un archivo Excel o CSV
