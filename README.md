@@ -43,5 +43,5 @@
 - Fuente 2: Mio
 - Fuente 3: Datos abiertos
 
-![Fuentes de datos para nuestro análisis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyt4xkXoeJhRO_AQqnmFZqmesvTfp92E2LSko-eLfwh3VWR825MwM8SVaYfNAdK1FH8Vo&usqp=CAU)
+![Fuentes de datos para nuestro análisis](https://cdn.plainconcepts.com/wp-content/uploads/2023/01/etl-extract-transform-load.jpg)
 
