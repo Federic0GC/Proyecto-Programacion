@@ -1,5 +1,5 @@
 # Visualizar los cupos como una alternativa a la problemática de movilidad en la Universidad Autónoma de Occidente.
-# En busca de nuevas posibilidades de transporte SEGURO y alternativo para los estudiantes de la UAO
+- En busca de nuevas posibilidades de transporte SEGURO y alternativo para los estudiantes de la UAO
 
 ![Masivo Integrado de Occidente (MIO)](https://www.uao.edu.co/wp-content/uploads/2020/09/internacionalizacion-en-la-uao.jpg)
 
