@@ -1,3 +1,6 @@
+![Masivo Integrado de Occidente (MIO)](https://admisiones.uao.edu.co/wp-content/uploads/elementor/thumbs/BANNER-LANDING-12-1-scaled-q3lrqjvb3bzcrdxs0xctzvl1aop9wzvwvx1pevouqo.jpg)
+
+
 # Visualizar los cupos como una alternativa a la problemática de movilidad en la Universidad Autónoma de Occidente.
 - En busca de nuevas posibilidades de transporte SEGURO y alternativo para los estudiantes de la UAO
 
