@@ -9,3 +9,12 @@
 
 ![Estación de BRT en Santiago de Cali](https://upload.wikimedia.org/wikipedia/commons/a/a0/BRT%2C_santiago_de_Cali_station.jpg)
 
+# Una vez elegidas las fuentes, conectarse al API o hacer webscrapping en python utilizando POO.
+
+-Fuente 1: Google Maps
+
+-Fuente 2: Mio
+
+-Fuente 3: Datos abiertos
+
+
