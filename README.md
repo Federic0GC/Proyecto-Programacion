@@ -1,6 +1,19 @@
 # Visualizar los cupos como una alternativa a la problemática de movilidad en la Universidad Autónoma de Occidente.
 - En busca de nuevas posibilidades de transporte SEGURO y alternativo para los estudiantes de la UAO
 
+# Integrantes:
+- Juana Valentina Garzón Romero
+- Melisa Caldas Escobar 
+- Federico Gonzales Cárdenas
+- Manuel Alejandro Gruezo Arias
+- David Alejandro Cajiao Lazt
+- 
+# Mision y motivacion que aspira nuestro equipo de trabajo
+
+- Con la implementación de los cupos como alternativa de transporte en la UAO, se espera mejorar la movilidad de los estudiantes y reducir el tráfico vehicular en la zona. El uso de fuentes de datos como Uber y Mio, así como de datos abiertos, nos ha permitido obtener una visión más completa de la situación de la movilidad en la zona, lo que nos ha permitido proponer soluciones más precisas y efectivas.
+
+
+
 ![Masivo Integrado de Occidente (MIO)](https://www.uao.edu.co/wp-content/uploads/2020/09/internacionalizacion-en-la-uao.jpg)
 
 # Fuentes de datos utilizados por nuestro equipo de trabajo 
