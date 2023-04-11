@@ -2,7 +2,7 @@
 - En busca de nuevas posibilidades de transporte *SEGURO* y alternativo para los estudiantes de la UAO
 
 
-![Masivo Integrado de Occidente (MIO)](https://upload.wikimedia.org/wikipedia/commons/a/a0/BRT%2C_santiago_de_Cali_station.jpg)
+![Masivo Integrado de Occidente (MIO)](https://www.uao.edu.co/wp-content/uploads/2020/09/internacionalizacion-en-la-uao.jpg)
 
 # Fuentes de datos utilizados por nuestro equipo de trabajp 
 - Uber: https://developer.uber.com/docs/businesses/data-automation/data-download
