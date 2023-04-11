@@ -9,4 +9,3 @@
 
 ![Estación de BRT en Santiago de Cali](https://upload.wikimedia.org/wikipedia/commons/a/a0/BRT%2C_santiago_de_Cali_station.jpg)
 
-![Plataformas de transporte público en Colombia](https://www.elcolombiano.com/binrepository/716x477/0c0/0d0/none/11101/EEGY/plataformas-colprensa_41603859_20230131071506.jpg)
