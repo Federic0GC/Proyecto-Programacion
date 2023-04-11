@@ -11,10 +11,10 @@
 
 # Una vez elegidas las fuentes, conectarse al API o hacer webscrapping en python utilizando POO.
 
--Fuente 1: Google Maps
+- Fuente 1: Google Maps
 
--Fuente 2: Mio
+- Fuente 2: Mio
 
--Fuente 3: Datos abiertos
+- Fuente 3: Datos abiertos
 
 
