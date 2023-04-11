@@ -1,5 +1,3 @@
-![Campus Universidad Autonoma de Occidente](https://www.uao.edu.co/wp-content/uploads/2020/05/Vive-la-UAO-745x410.jpg){width=50%}
-
 # Visualizar los cupos como una alternativa a la problemática de movilidad en la Universidad Autónoma de Occidente.
 - En busca de nuevas posibilidades de transporte SEGURO y alternativo para los estudiantes de la UAO
 
@@ -17,6 +15,8 @@
 # Evidencia e informacion que seguro estaras buscarando
 
 - En el repositorio encontrarás los datos ya transformados en su totalidad por un proceso de ETL, siendo estos presentados en un archivo Excel o CSV
+
+
 
 ![Masivo Integrado de Occidente (MIO)](https://www.uao.edu.co/wp-content/uploads/2020/09/internacionalizacion-en-la-uao.jpg)
 
@@ -40,6 +40,5 @@
 - Fuente 2: Mio
 - Fuente 3: Datos abiertos
 
-![Fuentes de datos para nuestro análisis](https://miro.medium.com/v2/resize:fit:1400/1*4-s0ZKKJ5B09Cm
-
+![Fuentes de datos para nuestro análisis](https://miro.medium.com/v2/resize:fit:1400/1*4-s0ZKKJ5B09CmQxrmx0Yw.png)
 
