@@ -18,5 +18,6 @@
 - Fuente 3: Datos abiertos
 
 ![Fuentes de datos para nuestro análisis](https://miro.medium.com/v2/resize:fit:1400/1*4-s0ZKKJ5B09CmQxrmx0Yw.png)
+![Web scrapping definicion].(https://kinsta.com/wp-content/uploads/2022/07/Types-of-web-data.png)
 
 
