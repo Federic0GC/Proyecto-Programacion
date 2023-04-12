@@ -62,6 +62,7 @@
 - Fuente 1: Google Maps
 - Fuente 2: Mio
 - Fuente 3: Datos abiertos
+- Fuente 4: Encuesta
 
 ![Fuentes de datos para nuestro análisis](https://cdn.plainconcepts.com/wp-content/uploads/2023/01/etl-extract-transform-load.jpg)
 
