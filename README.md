@@ -25,12 +25,11 @@
 [dataset_crawler-google-places_2023-04-12_16-30-06-314 (1) (1).xlsx](https://github.com/Federic0GC/Proyecto-Programacion/files/11213858/dataset_crawler-google-places_2023-04-12_16-30-06-314.1.1.xlsx)
 - Paradas cercanas a la Universidad Autonoma de Occidente
 ![Paradas de la u](https://user-images.githubusercontent.com/126357240/231529085-3a7e168c-1480-427b-98b9-f257403aeb4f.JPG)
-
-
 - Enlace del dataset final con su proceso finzalizado del web scrapping
 [dataset_crawler-google-places_2023-04-12_16-46-18-610.xlsx](https://github.com/Federic0GC/Proyecto-Programacion/files/11214002/dataset_crawler-google-places_2023-04-12_16-46-18-610.xlsx)
 - Consola participe de la extraccion de datos "https://console.apify.com/view/runs/IZthaF7F24fMEkIgT"
-- Informacion que se extraer de la consola ![Info](https://user-images.githubusercontent.com/126357240/231529459-8e0f519a-e658-4a3f-8ac7-b6c9aebae0b7.JPG)
+- Informacion que se extraer de la consola 
+![Info](https://user-images.githubusercontent.com/126357240/231529459-8e0f519a-e658-4a3f-8ac7-b6c9aebae0b7.JPG)
 
 
 
