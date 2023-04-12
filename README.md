@@ -16,13 +16,14 @@
 - Con la implementación de los cupos como alternativa de transporte en la UAO, se espera mejorar la movilidad de los estudiantes y reducir el tráfico vehicular en la zona. El uso de fuentes de datos como Uber y Mio, así como de datos abiertos, nos ha permitido obtener una visión más completa de la situación de la movilidad en la zona, lo que nos ha permitido proponer soluciones más precisas y efectivas.
 
 # Evidencia e informacion que seguro estaras buscarando
+- En el repositorio encontrarás los datos ya transformados en su totalidad por un proceso de ETL, siendo estos presentados en un archivo Doc,CSV o Excel
 
 - Doc Fuende de Datos "https://docs.google.com/document/d/16SY2Nz_Zp8MKeDW_ZiXHFGTZdwMjissbAqh5kk5D-JY/edit?usp=sharing"
 - Datos abiertos "Cantidad de vehiculos matriculados" 
 [cantidad-de-vehiculos-matriculados-por-tipo-servicio-a-enero-2019-en-santiago-de-cali (2).csv](https://github.com/Federic0GC/Proyecto-Programacion/files/11213773/cantidad-de-vehiculos-matriculados-por-tipo-servicio-a-enero-2019-en-santiago-de-cali.2.csv)
 
 
-- En el repositorio encontrarás los datos ya transformados en su totalidad por un proceso de ETL, siendo estos presentados en un archivo Excel o CSV
+
 
 
 
