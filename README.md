@@ -24,7 +24,8 @@
 - Informacion recuperada y sacada de google maps "Dataset"
 [dataset_crawler-google-places_2023-04-12_16-30-06-314 (1) (1).xlsx](https://github.com/Federic0GC/Proyecto-Programacion/files/11213858/dataset_crawler-google-places_2023-04-12_16-30-06-314.1.1.xlsx)
 - Paradas cercanas a la Universidad Autonoma de Occidente
-![Captura](https://user-images.githubusercontent.com/126357240/231528952-b91332e2-0914-4aa1-8140-cd6143eeffb7.JPG)
+![Paradas de la u](https://user-images.githubusercontent.com/126357240/231529085-3a7e168c-1480-427b-98b9-f257403aeb4f.JPG)
+
 
 - Enlace del dataset final con su proceso finzalizado del web scrapping
 [dataset_crawler-google-places_2023-04-12_16-46-18-610.xlsx](https://github.com/Federic0GC/Proyecto-Programacion/files/11214002/dataset_crawler-google-places_2023-04-12_16-46-18-610.xlsx)
