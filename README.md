@@ -23,6 +23,9 @@
 [cantidad-de-vehiculos-matriculados-por-tipo-servicio-a-enero-2019-en-santiago-de-cali (2).csv](https://github.com/Federic0GC/Proyecto-Programacion/files/11213773/cantidad-de-vehiculos-matriculados-por-tipo-servicio-a-enero-2019-en-santiago-de-cali.2.csv)
 - Informacion recuperada y sacada de google maps "Dataset"
 [dataset_crawler-google-places_2023-04-12_16-30-06-314 (1) (1).xlsx](https://github.com/Federic0GC/Proyecto-Programacion/files/11213858/dataset_crawler-google-places_2023-04-12_16-30-06-314.1.1.xlsx)
+- Paradas cercanas a la Universidad Autonoma de Occidente
+- ![Paradas de la u](https://user-images.githubusercontent.com/126357240/231527072-c2b7a8f4-8538-43aa-bdad-b25e908de7cd.JPG)
+
 
 
 
