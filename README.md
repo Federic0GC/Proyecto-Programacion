@@ -27,6 +27,7 @@
 ![Paradas de la u](https://user-images.githubusercontent.com/126357240/231527072-c2b7a8f4-8538-43aa-bdad-b25e908de7cd.JPG)
 - Enlace del dataset final con su proceso finzalizado del web scrapping
 [dataset_crawler-google-places_2023-04-12_16-46-18-610.xlsx](https://github.com/Federic0GC/Proyecto-Programacion/files/11214002/dataset_crawler-google-places_2023-04-12_16-46-18-610.xlsx)
+- Consola de donde fueron extraido los datos "https://console.apify.com/view/runs/IZthaF7F24fMEkIgT"
 
 
 
