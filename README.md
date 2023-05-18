@@ -69,6 +69,10 @@
 
 
 
+
+![Fuentes de datos para nuestro análisis](https://kinsta.com/es/wp-content/uploads/sites/8/2020/04/herramientas-de-revision-de-codigo.png)
+
+
 # Analitica Proyecto de datos
 - https://colab.research.google.com/drive/1lZuQEViGEkbmQA5TXTrBhQ8odnwmzd2g?usp=sharing
 
@@ -78,6 +82,6 @@
 
 
 # Datos extraidos del formulario
--https://docs.google.com/spreadsheets/d/1zYlaQuSG1-ymrQ8L4efN4XPx9HVVBQZr/edit#gid=2146225348
+- https://docs.google.com/spreadsheets/d/1zYlaQuSG1-ymrQ8L4efN4XPx9HVVBQZr/edit#gid=2146225348
 
 
