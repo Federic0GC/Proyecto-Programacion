@@ -1,0 +1,181 @@
+Tiempo,Edad,Barrio,Programa,Horario,Medio de Transporte,Tiempo que tardas yendo a la U,Cuánto pagas?,Te sientes seguro?,Considerarías cambiarte al sistema de cupos?,¿Hasta cuanto estarías dispuesto a pagar por ir en carro particular (cupos)?,Usar tu vehículo
+26/02/2023,29,Camino Real,Ingenieria Mecatronica,Ambos,Bus o Mio (masivo integrado de occidente),53,13,Sólo comod@,No,3000-4000,Sí
+26/02/2023,30,Camino Real,Cine,Nocturno,Bicicleta o Caminando,60,7,No,Sí,3000-4000,No
+22/02/2023,17,Bochalema,Comunicacion Social,Ambos,Carro particular,42,20,No,No,3000-4000,Sí
+27/02/2023,17,Bochalema,Ingenieria Mecatronica,Diurno,Moto propia,45,18,Sí,Sí,4000-5000,Sí
+28/02/2023,23,Ciudad 2000,Ingenieria Industrial,Nocturno,Carro particular,82,18,No,Sí,5000-6000,Sí
+22/02/2023,24,Palmira,Ingenieria Mecanica,Diurno,Carro particular,55,18,No,Sí,5000-6000,Sí
+24/02/2023,21,Jamundi,Ingenieria Industrial,Diurno,Moto propia,48,19,Sí,Sí,5000-6000,No
+25/02/2023,22,Valle del Lili,Ingenieria Multimedia,Nocturno,Transporte Informal (Uber Pirata etc.),77,12,Sí,Sí,5000-6000,Sí
+25/02/2023,25,Bochalema,Comunicacion Publicitaria,Nocturno,Transporte Informal (Uber Pirata etc.),54,5,Sólo comod@,Sí,3000-4000,No
+24/02/2023,18,Ciudadela Melendez,Cine,Nocturno,Moto propia,57,12,Sólo comod@,No,3000-4000,No
+23/02/2023,25,Ciudad 2000,Administracion de Empresas,Ambos,Transporte Informal (Uber Pirata etc.),51,13,No,No,4000-5000,Sí
+26/02/2023,25,Bochalema,Mercadeo,Ambos,Bus o Mio (masivo integrado de occidente),80,5,Sólo comod@,No,5000-6000,Sí
+28/02/2023,24,Bochalema,Cine,Ambos,Carro particular,55,19,Sólo comod@,No,4000-5000,Sí
+25/02/2023,20,Las Vegas,Cine,Diurno,Transporte Informal (Uber Pirata etc.),58,15,No,Sí,4000-5000,Sí
+25/02/2023,25,Florida,Publicidad en Medio Digitales,Nocturno,Carro particular,71,14,Sólo segur@,Sí,3000-4000,Sí
+23/02/2023,18,Ciudadela Melendez,Publicidad en Medio Digitales,Diurno,Bus o Mio (masivo integrado de occidente),20,7,No,Sí,4000-5000,No
+27/02/2023,19,Bochalema,Ingenieria de Datos e IA,Diurno,Bicicleta o Caminando,90,11,Sólo comod@,No,5000-6000,Sí
+25/02/2023,28,Jamundi,Ingenieria Biomedica,Diurno,Bus o Mio (masivo integrado de occidente),87,17,Sólo comod@,Sí,4000-5000,No
+23/02/2023,24,Bochalema,Ingenieria de Datos e IA,Ambos,Carro particular,42,11,Sólo segur@,Sí,4000-5000,Sí
+21/02/2023,24,Palmira,Ingenieria Biomedica,Ambos,Bicicleta o Caminando,88,8,No,Sí,3000-4000,Sí
+25/02/2023,20,Yumbo,Ingenieria Industrial,Ambos,Transporte Informal (Uber Pirata etc.),17,5,Sólo comod@,Sí,4000-5000,Sí
+23/02/2023,28,Palmira,Ingenieria Biomedica,Ambos,Bus o Mio (masivo integrado de occidente),38,17,No,Sí,5000-6000,Sí
+21/02/2023,29,Jamundi,Comunicacion Social,Diurno,Moto propia,73,10,No,Sí,5000-6000,No
+21/02/2023,29,Valle del Lili,Ingenieria Informatica,Ambos,Transporte Informal (Uber Pirata etc.),68,17,No,Sí,5000-6000,Sí
+28/02/2023,30,Salomia,Administracion de Empresas,Diurno,Carro particular,78,8,No,Sí,4000-5000,Sí
+22/02/2023,29,Metropolitano del Norte,Ingenieria Informatica,Diurno,Moto propia,23,11,Sólo comod@,Sí,5000-6000,Sí
+23/02/2023,26,Jamundi,Ingenieria Multimedia,Diurno,Carro particular,14,11,No,Sí,4000-5000,No
+24/02/2023,26,Yumbo,Ingenieria de Datos e IA,Nocturno,Carro particular,22,13,Sí,No,4000-5000,Sí
+27/02/2023,28,Valle del Lili,Ingenieria Mecatronica,Diurno,Bus o Mio (masivo integrado de occidente),43,17,Sí,No,5000-6000,Sí
+28/02/2023,24,Valle del Lili,Ingenieria de sistemas,Diurno,Transporte Informal (Uber Pirata etc.),88,17,Sí,Sí,4000-5000,Sí
+27/02/2023,24,Camino Real,Ingenieria de Datos e IA,Nocturno,Bicicleta o Caminando,56,6,No,Sí,4000-5000,Sí
+21/02/2023,26,La Hacienda,Comunicacion Social,Nocturno,Bus o Mio (masivo integrado de occidente),17,13,Sólo comod@,Sí,4000-5000,Sí
+23/02/2023,24,Bochalema,Mercadeo,Ambos,Bus o Mio (masivo integrado de occidente),21,8,Sólo segur@,Sí,4000-5000,No
+28/02/2023,27,Camino Real,Ingenieria Mecanica,Nocturno,Carro particular,26,14,No,Sí,5000-6000,Sí
+20/02/2023,17,Florida,Ingenieria Mecanica,Diurno,Transporte Informal (Uber Pirata etc.),71,14,Sólo comod@,Sí,4000-5000,Sí
+21/02/2023,29,Valle del Lili,Ingenieria de sistemas,Nocturno,Moto propia,56,19,No,Sí,4000-5000,Sí
+22/02/2023,23,Camino Real,Ingenieria Mecatronica,Diurno,Bus o Mio (masivo integrado de occidente),24,17,Sólo segur@,Sí,4000-5000,No
+23/02/2023,26,Valle del Lili,Cine,Diurno,Carro particular,55,6,No,No,3000-4000,No
+27/02/2023,26,La Hacienda,Mercadeo,Ambos,Transporte Informal (Uber Pirata etc.),30,14,Sólo comod@,Sí,4000-5000,No
+22/02/2023,29,Salomia,Ingenieria Mecatronica,Diurno,Carro particular,33,10,Sólo comod@,Sí,5000-6000,Sí
+25/02/2023,30,Tejares de Salomia,Ingenieria Industrial,Diurno,Moto propia,40,10,No,Sí,4000-5000,Sí
+21/02/2023,29,Camino Real,Ingenieria de Datos e IA,Diurno,Transporte Informal (Uber Pirata etc.),40,15,Sólo comod@,No,4000-5000,Sí
+28/02/2023,17,Valle del Lili,Ingenieria Mecatronica,Nocturno,Bus o Mio (masivo integrado de occidente),69,8,Sólo comod@,Sí,5000-6000,Sí
+21/02/2023,19,Bochalema,Ingenieria de Datos e IA,Diurno,Bus o Mio (masivo integrado de occidente),50,18,Sólo segur@,Sí,5000-6000,Sí
+21/02/2023,22,Jamundi,Cine,Nocturno,Bus o Mio (masivo integrado de occidente),16,13,No,Sí,4000-5000,No
+28/02/2023,19,Ciudad 2000,Ingenieria Biomedica,Ambos,Carro particular,32,11,No,Sí,4000-5000,Sí
+26/02/2023,21,La Hacienda,Ingenieria Industrial,Diurno,Carro particular,82,16,No,Sí,4000-5000,Sí
+28/02/2023,21,Las Vegas,Administracion de Empresas,Ambos,Carro particular,50,7,Sólo comod@,No,5000-6000,No
+25/02/2023,18,Jamundi,Ingenieria Mecanica,Diurno,Bicicleta o Caminando,51,17,No,Sí,5000-6000,No
+22/02/2023,27,Valle del Lili,Ingenieria Industrial,Diurno,Bus o Mio (masivo integrado de occidente),84,6,No,No,4000-5000,Sí
+23/02/2023,27,Villa Rica,Ingenieria Industrial,Diurno,Carro particular,72,20,Sólo comod@,No,5000-6000,No
+22/02/2023,21,Villa Rica,Ingenieria de Datos e IA,Ambos,Transporte Informal (Uber Pirata etc.),42,10,Sólo segur@,No,4000-5000,Sí
+20/02/2023,29,Bochalema,Ingenieria de Datos e IA,Nocturno,Transporte Informal (Uber Pirata etc.),79,5,Sólo comod@,No,5000-6000,Sí
+25/02/2023,20,Jamundi,Ingenieria Mecatronica,Diurno,Carro particular,51,8,Sólo comod@,No,5000-6000,Sí
+21/02/2023,26,Jamundi,Cine,Diurno,Bus o Mio (masivo integrado de occidente),76,7,Sólo comod@,No,5000-6000,Sí
+28/02/2023,23,La Hacienda,Ingenieria Informatica,Diurno,Moto propia,27,15,Sólo comod@,No,4000-5000,Sí
+25/02/2023,21,Florida,Comunicacion Publicitaria,Nocturno,Moto propia,33,17,Sí,Sí,5000-6000,Sí
+23/02/2023,21,Metropolitano del Norte,Ingenieria Biomedica,Diurno,Bus o Mio (masivo integrado de occidente),35,17,Sólo segur@,Sí,4000-5000,No
+26/02/2023,25,Metropolitano del Norte,Ingenieria Multimedia,Diurno,Carro particular,50,15,Sólo segur@,Sí,5000-6000,Sí
+25/02/2023,18,Villa Rica,Mercadeo,Diurno,Bus o Mio (masivo integrado de occidente),31,17,Sí,Sí,4000-5000,Sí
+25/02/2023,23,Jamundi,Publicidad en Medio Digitales,Diurno,Bus o Mio (masivo integrado de occidente),80,20,Sí,No,4000-5000,No
+28/02/2023,23,Jamundi,Administracion de Empresas,Diurno,Transporte Informal (Uber Pirata etc.),76,5,No,No,4000-5000,No
+22/02/2023,25,Florida,Comunicacion Publicitaria,Diurno,Bus o Mio (masivo integrado de occidente),56,12,Sólo comod@,No,4000-5000,No
+24/02/2023,22,Ciudad 2000,Administracion de Empresas,Diurno,Transporte Informal (Uber Pirata etc.),85,19,Sólo segur@,No,4000-5000,Sí
+20/02/2023,29,Junin,Ingenieria Mecanica,Ambos,Bus o Mio (masivo integrado de occidente),14,12,Sí,Sí,4000-5000,Sí
+26/02/2023,24,Salomia,Cine,Nocturno,Transporte Informal (Uber Pirata etc.),65,15,No,No,5000-6000,Sí
+22/02/2023,20,Jamundi,Ingenieria de sistemas,Diurno,Carro particular,35,10,No,Sí,4000-5000,Sí
+20/02/2023,22,Salomia,Ingenieria de sistemas,Diurno,Moto propia,48,14,Sí,No,4000-5000,No
+23/02/2023,25,Bochalema,Cine,Ambos,Moto propia,83,15,Sólo comod@,Sí,5000-6000,No
+23/02/2023,26,Valle del Lili,Comunicacion Social,Diurno,Bicicleta o Caminando,40,18,Sólo segur@,Sí,4000-5000,Sí
+25/02/2023,27,Bochalema,Publicidad en Medio Digitales,Diurno,Carro particular,90,14,Sólo comod@,Sí,4000-5000,Sí
+27/02/2023,17,Villa Rica,Administracion de Empresas,Diurno,Carro particular,24,9,No,Sí,4000-5000,Sí
+28/02/2023,17,Valle del Lili,Ingenieria Mecanica,Ambos,Bus o Mio (masivo integrado de occidente),58,12,No,Sí,5000-6000,Sí
+24/02/2023,20,Bochalema,Ingenieria Informatica,Diurno,Moto propia,44,14,Sólo comod@,Sí,4000-5000,Sí
+25/02/2023,19,Valle del Lili,Administracion de Empresas,Nocturno,Bus o Mio (masivo integrado de occidente),82,7,No,Sí,4000-5000,Sí
+27/02/2023,23,Valle del Lili,Ingenieria Informatica,Ambos,Bus o Mio (masivo integrado de occidente),28,14,No,Sí,4000-5000,Sí
+27/02/2023,29,Bochalema,Comunicacion Publicitaria,Nocturno,Bus o Mio (masivo integrado de occidente),72,13,Sólo comod@,Sí,5000-6000,No
+26/02/2023,20,Bochalema,Ingenieria Mecatronica,Diurno,Bus o Mio (masivo integrado de occidente),18,8,Sólo comod@,No,3000-4000,Sí
+28/02/2023,23,Santander de Quilichao,Ingenieria Informatica,Diurno,Bus o Mio (masivo integrado de occidente),68,18,Sólo comod@,Sí,5000-6000,No
+21/02/2023,19,Junin,Ingenieria Mecanica,Diurno,Bus o Mio (masivo integrado de occidente),16,11,Sólo comod@,No,4000-5000,Sí
+20/02/2023,28,Valle del Lili,Cine,Diurno,Transporte Informal (Uber Pirata etc.),69,14,No,Sí,4000-5000,Sí
+22/02/2023,23,Jamundi,Administracion de Empresas,Diurno,Bicicleta o Caminando,75,10,No,Sí,4000-5000,Sí
+23/02/2023,19,Salomia,Comunicacion Social,Nocturno,Transporte Informal (Uber Pirata etc.),61,20,Sólo comod@,No,5000-6000,Sí
+27/02/2023,18,Palmira,Ingenieria Industrial,Nocturno,Bus o Mio (masivo integrado de occidente),43,5,Sólo comod@,Sí,5000-6000,Sí
+27/02/2023,27,Bochalema,Ingenieria Informatica,Diurno,Bus o Mio (masivo integrado de occidente),59,20,No,Sí,3000-4000,No
+20/02/2023,28,Valle del Lili,Cine,Diurno,Carro particular,32,20,Sólo comod@,No,3000-4000,Sí
+20/02/2023,23,Valle del Lili,Comunicacion Publicitaria,Diurno,Transporte Informal (Uber Pirata etc.),11,15,No,Sí,5000-6000,Sí
+25/02/2023,26,Bochalema,Cine,Diurno,Carro particular,89,9,Sí,No,4000-5000,Sí
+23/02/2023,27,Metropolitano del Norte,Ingenieria de Datos e IA,Diurno,Bicicleta o Caminando,33,18,No,Sí,3000-4000,Sí
+26/02/2023,21,Junin,Cine,Diurno,Carro particular,36,5,Sólo comod@,Sí,5000-6000,No
+21/02/2023,23,Junin,Mercadeo,Diurno,Carro particular,22,5,No,No,5000-6000,Sí
+23/02/2023,18,Metropolitano del Norte,Administracion de Empresas,Diurno,Moto propia,41,19,No,Sí,4000-5000,Sí
+22/02/2023,30,Bochalema,Ingenieria Industrial,Diurno,Bus o Mio (masivo integrado de occidente),52,20,Sólo comod@,Sí,3000-4000,No
+22/02/2023,19,Metropolitano del Norte,Administracion de Empresas,Nocturno,Transporte Informal (Uber Pirata etc.),68,11,No,No,4000-5000,No
+25/02/2023,24,Valle del Lili,Ingenieria Informatica,Ambos,Bus o Mio (masivo integrado de occidente),89,13,Sólo comod@,No,5000-6000,Sí
+28/02/2023,19,Villa Rica,Ingenieria de Datos e IA,Nocturno,Bus o Mio (masivo integrado de occidente),46,5,No,Sí,4000-5000,Sí
+21/02/2023,20,Aranjuez,Ingenieria Mecatronica,Diurno,Carro particular,81,19,Sólo comod@,Sí,3000-4000,Sí
+20/02/2023,19,Junin,Ingenieria Informatica,Nocturno,Moto propia,68,11,No,Sí,5000-6000,Sí
+24/02/2023,18,La Hacienda,Ingenieria Mecanica,Ambos,Bicicleta o Caminando,66,5,Sólo comod@,Sí,3000-4000,No
+28/02/2023,30,Bochalema,Ingenieria Informatica,Nocturno,Carro particular,81,8,Sólo comod@,No,4000-5000,Sí
+28/02/2023,23,La Hacienda,Ingenieria Mecatronica,Diurno,Moto propia,49,5,No,Sí,4000-5000,No
+22/02/2023,21,Villa Rica,Ingenieria Informatica,Diurno,Bus o Mio (masivo integrado de occidente),12,12,No,Sí,4000-5000,No
+28/02/2023,17,Bochalema,Comunicacion Publicitaria,Diurno,Bus o Mio (masivo integrado de occidente),13,16,No,No,4000-5000,Sí
+23/02/2023,18,Las Vegas,Ingenieria Biomedica,Diurno,Bus o Mio (masivo integrado de occidente),15,18,No,Sí,5000-6000,No
+27/02/2023,18,Santander de Quilichao,Administracion de Empresas,Diurno,Carro particular,67,5,Sí,Sí,4000-5000,No
+20/02/2023,29,Las Vegas,Publicidad en Medio Digitales,Diurno,Bus o Mio (masivo integrado de occidente),39,10,No,No,4000-5000,No
+27/02/2023,24,Florida,Cine,Diurno,Carro particular,72,20,No,Sí,4000-5000,No
+25/02/2023,23,Bochalema,Comunicacion Publicitaria,Diurno,Bus o Mio (masivo integrado de occidente),46,20,No,Sí,4000-5000,No
+23/02/2023,17,Bochalema,Ingenieria Mecanica,Diurno,Moto propia,70,14,Sólo comod@,Sí,5000-6000,Sí
+28/02/2023,25,Jamundi,Ingenieria Multimedia,Diurno,Bus o Mio (masivo integrado de occidente),79,18,Sólo comod@,Sí,4000-5000,No
+22/02/2023,28,Valle del Lili,Comunicacion Social,Diurno,Bus o Mio (masivo integrado de occidente),55,13,Sólo comod@,No,4000-5000,Sí
+21/02/2023,27,Junin,Comunicacion Publicitaria,Diurno,Transporte Informal (Uber Pirata etc.),22,5,No,No,5000-6000,Sí
+28/02/2023,18,Bochalema,Ingenieria Multimedia,Diurno,Carro particular,54,10,No,Sí,5000-6000,No
+22/02/2023,24,Valle del Lili,Ingenieria de sistemas,Nocturno,Transporte Informal (Uber Pirata etc.),47,14,No,Sí,4000-5000,Sí
+20/02/2023,30,Bochalema,Ingenieria Informatica,Ambos,Bus o Mio (masivo integrado de occidente),90,7,No,Sí,5000-6000,Sí
+28/02/2023,24,Bochalema,Ingenieria de sistemas,Diurno,Bus o Mio (masivo integrado de occidente),44,19,Sólo comod@,Sí,5000-6000,Sí
+24/02/2023,22,La Hacienda,Publicidad en Medio Digitales,Ambos,Bus o Mio (masivo integrado de occidente),76,19,Sólo comod@,Sí,3000-4000,No
+23/02/2023,20,Ciudadela Melendez,Cine,Nocturno,Transporte Informal (Uber Pirata etc.),80,9,Sólo comod@,No,4000-5000,No
+21/02/2023,29,Jamundi,Ingenieria Industrial,Diurno,Transporte Informal (Uber Pirata etc.),75,9,No,No,3000-4000,Sí
+25/02/2023,22,Valle del Lili,Ingenieria Multimedia,Diurno,Bicicleta o Caminando,29,16,Sólo comod@,Sí,4000-5000,Sí
+21/02/2023,28,Bochalema,Ingenieria Mecatronica,Nocturno,Moto propia,88,11,No,Sí,4000-5000,Sí
+21/02/2023,24,Villa Rica,Ingenieria de Datos e IA,Nocturno,Carro particular,78,17,No,No,4000-5000,Sí
+25/02/2023,19,Ciudadela Melendez,Cine,Nocturno,Carro particular,47,9,No,No,5000-6000,No
+23/02/2023,19,Jamundi,Cine,Diurno,Moto propia,74,11,Sólo comod@,No,4000-5000,Sí
+23/02/2023,22,Bochalema,Cine,Ambos,Carro particular,65,13,No,No,5000-6000,Sí
+21/02/2023,18,Ciudad 2000,Ingenieria Biomedica,Diurno,Bus o Mio (masivo integrado de occidente),64,5,Sólo comod@,No,5000-6000,Sí
+28/02/2023,18,Ciudad 2000,Ingenieria Industrial,Diurno,Bus o Mio (masivo integrado de occidente),43,17,Sólo comod@,No,3000-4000,Sí
+27/02/2023,23,Yumbo,Comunicacion Publicitaria,Diurno,Carro particular,63,6,Sólo comod@,Sí,4000-5000,No
+22/02/2023,23,Metropolitano del Norte,Ingenieria de Datos e IA,Ambos,Bus o Mio (masivo integrado de occidente),39,8,Sólo segur@,Sí,4000-5000,Sí
+27/02/2023,26,Aranjuez,Ingenieria Industrial,Nocturno,Bicicleta o Caminando,46,13,Sólo segur@,Sí,4000-5000,Sí
+25/02/2023,23,La Hacienda,Ingenieria Mecatronica,Diurno,Bus o Mio (masivo integrado de occidente),85,12,Sí,Sí,5000-6000,No
+20/02/2023,25,Villa Rica,Ingenieria Mecanica,Diurno,Transporte Informal (Uber Pirata etc.),14,9,No,Sí,4000-5000,No
+25/02/2023,21,Bochalema,Ingenieria Mecanica,Nocturno,Transporte Informal (Uber Pirata etc.),52,15,Sólo comod@,Sí,4000-5000,Sí
+21/02/2023,27,Bochalema,Administracion de Empresas,Diurno,Carro particular,53,9,No,Sí,4000-5000,Sí
+26/02/2023,22,Palmira,Comunicacion Publicitaria,Ambos,Transporte Informal (Uber Pirata etc.),44,16,Sólo comod@,Sí,5000-6000,Sí
+28/02/2023,19,Yumbo,Comunicacion Social,Diurno,Bus o Mio (masivo integrado de occidente),50,7,Sí,No,3000-4000,No
+20/02/2023,22,Bochalema,Ingenieria Mecanica,Diurno,Moto propia,48,5,Sólo comod@,No,4000-5000,Sí
+23/02/2023,21,Valle del Lili,Publicidad en Medio Digitales,Nocturno,Bicicleta o Caminando,47,16,Sólo comod@,Sí,5000-6000,Sí
+25/02/2023,21,Valle del Lili,Ingenieria Industrial,Diurno,Transporte Informal (Uber Pirata etc.),49,15,Sí,No,5000-6000,Sí
+26/02/2023,17,Valle del Lili,Publicidad en Medio Digitales,Ambos,Bicicleta o Caminando,52,9,No,No,5000-6000,Sí
+23/02/2023,28,Ciudad 2000,Ingenieria Mecatronica,Nocturno,Bicicleta o Caminando,87,14,No,No,4000-5000,Sí
+27/02/2023,26,Villa Rica,Ingenieria Mecatronica,Nocturno,Transporte Informal (Uber Pirata etc.),24,10,No,Sí,5000-6000,No
+23/02/2023,27,Tejares de Salomia,Mercadeo,Nocturno,Moto propia,22,10,No,No,4000-5000,Sí
+21/02/2023,20,Metropolitano del Norte,Ingenieria Industrial,Nocturno,Carro particular,30,17,No,No,5000-6000,Sí
+22/02/2023,18,Las Vegas,Comunicacion Publicitaria,Ambos,Bus o Mio (masivo integrado de occidente),47,16,Sí,Sí,5000-6000,Sí
+20/02/2023,18,Ciudad 2000,Administracion de Empresas,Ambos,Transporte Informal (Uber Pirata etc.),80,12,Sí,No,5000-6000,Sí
+26/02/2023,23,Bochalema,Ingenieria de Datos e IA,Diurno,Moto propia,89,10,Sólo segur@,Sí,4000-5000,Sí
+28/02/2023,20,Aranjuez,Ingenieria Industrial,Diurno,Bus o Mio (masivo integrado de occidente),29,10,No,Sí,5000-6000,No
+27/02/2023,17,Bochalema,Comunicacion Social,Diurno,Carro particular,20,18,Sí,No,4000-5000,Sí
+25/02/2023,27,Valle del Lili,Administracion de Empresas,Diurno,Bus o Mio (masivo integrado de occidente),82,5,Sólo segur@,Sí,5000-6000,Sí
+25/02/2023,25,Florida,Ingenieria Industrial,Diurno,Transporte Informal (Uber Pirata etc.),70,6,No,Sí,4000-5000,Sí
+28/02/2023,25,Valle del Lili,Comunicacion Publicitaria,Ambos,Bus o Mio (masivo integrado de occidente),82,18,Sólo comod@,No,4000-5000,No
+24/02/2023,30,Jamundi,Ingenieria Industrial,Nocturno,Carro particular,68,6,No,Sí,4000-5000,No
+21/02/2023,26,Palmira,Ingenieria Multimedia,Diurno,Transporte Informal (Uber Pirata etc.),15,8,No,Sí,5000-6000,No
+27/02/2023,20,Valle del Lili,Mercadeo,Diurno,Bus o Mio (masivo integrado de occidente),89,16,Sí,No,4000-5000,No
+21/02/2023,19,Camino Real,Publicidad en Medio Digitales,Nocturno,Moto propia,82,14,No,Sí,5000-6000,Sí
+24/02/2023,20,La Hacienda,Ingenieria de sistemas,Ambos,Bus o Mio (masivo integrado de occidente),19,7,Sólo comod@,Sí,5000-6000,Sí
+22/02/2023,20,Valle del Lili,Ingenieria Mecatronica,Diurno,Transporte Informal (Uber Pirata etc.),29,12,Sí,Sí,4000-5000,No
+22/02/2023,24,Valle del Lili,Ingenieria Mecatronica,Nocturno,Bus o Mio (masivo integrado de occidente),62,18,No,Sí,5000-6000,No
+25/02/2023,21,Aranjuez,Ingenieria Informatica,Diurno,Bus o Mio (masivo integrado de occidente),74,18,No,Sí,4000-5000,Sí
+27/02/2023,20,Salomia,Administracion de Empresas,Nocturno,Bicicleta o Caminando,60,20,Sólo segur@,No,4000-5000,Sí
+20/02/2023,25,Ciudad 2000,Ingenieria de Datos e IA,Diurno,Bus o Mio (masivo integrado de occidente),14,14,Sólo segur@,Sí,4000-5000,No
+22/02/2023,17,Ciudadela Melendez,Ingenieria Multimedia,Ambos,Transporte Informal (Uber Pirata etc.),34,6,Sí,No,4000-5000,Sí
+21/02/2023,21,Metropolitano del Norte,Ingenieria Multimedia,Diurno,Bus o Mio (masivo integrado de occidente),18,11,No,No,3000-4000,No
+25/02/2023,29,Valle del Lili,Ingenieria de sistemas,Diurno,Carro particular,16,6,Sólo comod@,No,4000-5000,Sí
+28/02/2023,22,Valle del Lili,Mercadeo,Ambos,Moto propia,29,17,Sólo segur@,Sí,5000-6000,Sí
+21/02/2023,21,Valle del Lili,Ingenieria Mecatronica,Nocturno,Bus o Mio (masivo integrado de occidente),66,13,Sí,Sí,5000-6000,No
+25/02/2023,21,Valle del Lili,Ingenieria Industrial,Diurno,Bus o Mio (masivo integrado de occidente),35,9,Sólo segur@,Sí,4000-5000,Sí
+22/02/2023,19,Tejares de Salomia,Comunicacion Social,Diurno,Transporte Informal (Uber Pirata etc.),85,9,No,No,4000-5000,No
+25/02/2023,28,Yumbo,Ingenieria Industrial,Nocturno,Moto propia,75,14,No,Sí,5000-6000,Sí
+26/02/2023,24,Villa Rica,Publicidad en Medio Digitales,Nocturno,Bus o Mio (masivo integrado de occidente),84,5,Sí,Sí,5000-6000,Sí
+26/02/2023,28,Santander de Quilichao,Comunicacion Publicitaria,Diurno,Bus o Mio (masivo integrado de occidente),82,16,No,No,4000-5000,Sí
+22/02/2023,19,Valle del Lili,Ingenieria Multimedia,Nocturno,Bus o Mio (masivo integrado de occidente),59,11,Sólo comod@,Sí,4000-5000,Sí
+21/02/2023,30,Valle del Lili,Cine,Diurno,Moto propia,77,14,Sólo segur@,No,4000-5000,Sí
+26/02/2023,27,Jamundi,Ingenieria Mecanica,Ambos,Bus o Mio (masivo integrado de occidente),60,18,No,Sí,3000-4000,No
+21/02/2023,19,Bochalema,Administracion de Empresas,Nocturno,Bus o Mio (masivo integrado de occidente),20,13,No,No,4000-5000,Sí
+25/02/2023,17,Bochalema,Publicidad en Medio Digitales,Diurno,Bus o Mio (masivo integrado de occidente),19,6,Sólo segur@,Sí,5000-6000,Sí
+27/02/2023,30,Valle del Lili,Ingenieria de Datos e IA,Nocturno,Bicicleta o Caminando,55,7,Sí,Sí,4000-5000,No
+25/02/2023,23,Junin,Ingenieria de sistemas,Diurno,Moto propia,47,12,Sí,Sí,5000-6000,No
+21/02/2023,24,Bochalema,Ingenieria Mecatronica,Nocturno,Carro particular,15,11,Sí,No,4000-5000,Sí
