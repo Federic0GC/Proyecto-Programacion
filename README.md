@@ -56,6 +56,17 @@
 # Proceso de obtención y transformación de datos
 
 - Para obtener y transformar los datos necesarios para nuestro análisis, nuestro equipo de trabajo se ha conectado a las APIs de Uber y Mio, y ha utilizado técnicas de web scraping en Python, utilizando POO.
+- 
+
+# Analitica Proyecto de datos
+- https://colab.research.google.com/drive/1lZuQEViGEkbmQA5TXTrBhQ8odnwmzd2g?usp=sharing
+
+# Preguntas proyecto ( con sus respectivos datos )
+- https://docs.google.com/document/d/1XHgyT0MtjrUJhKh8lG-vhanECg1JYzXvkUYIopnZywg/edit
+
+# Datos extraidos del formulario
+-https://docs.google.com/spreadsheets/d/1zYlaQuSG1-ymrQ8L4efN4XPx9HVVBQZr/edit#gid=2146225348
+
 
 # Una vez obtenidos los datos, estos han sido sometidos a un proceso de ETL (Extract, Transform, Load) para ser transformados en su totalidad, y han sido presentados en un archivo Excel o CSV.
 
